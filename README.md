@@ -1,5 +1,5 @@
 # R_Laboratory-work-No.-10
-#Lab work #10 - Create and deploy a simple website using Blogdown technology / Лабораторная работа №10 – Создание и развертывание простого сайта с помощью технологии Blogdown
+# Lab work #10 - Create and deploy a simple website using Blogdown technology / Лабораторная работа №10 – Создание и развертывание простого сайта с помощью технологии Blogdown
 
 Цель работы: познакомиться с технологией создания статических сайтов `Blogdown` и развернуть проект на сервисе netlify. / Purpose of work: to get acquainted with the technology of creating static `Blogdown` sites and deploy the project on the netlify service.
 
